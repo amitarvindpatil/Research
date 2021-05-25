@@ -1,0 +1,16 @@
+---
+name: "Yml Example"
+sunscibers : 900
+awesome : True
+pi : 3.14
+topic:
+  - Devops
+  - Programming
+  - Linux
+  - IT Careers
+Playlists:
+  Example:
+    link: https://www.youtube.com/watch?v=_bDyDdynzuw
+    videos: 8
+
+...
